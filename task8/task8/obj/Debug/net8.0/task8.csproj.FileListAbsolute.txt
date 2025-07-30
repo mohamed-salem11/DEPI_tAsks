@@ -1,0 +1,14 @@
+D:\my work\task8\task8\bin\Debug\net8.0\task8.exe
+D:\my work\task8\task8\bin\Debug\net8.0\task8.deps.json
+D:\my work\task8\task8\bin\Debug\net8.0\task8.runtimeconfig.json
+D:\my work\task8\task8\bin\Debug\net8.0\task8.dll
+D:\my work\task8\task8\bin\Debug\net8.0\task8.pdb
+D:\my work\task8\task8\obj\Debug\net8.0\task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\my work\task8\task8\obj\Debug\net8.0\task8.AssemblyInfoInputs.cache
+D:\my work\task8\task8\obj\Debug\net8.0\task8.AssemblyInfo.cs
+D:\my work\task8\task8\obj\Debug\net8.0\task8.csproj.CoreCompileInputs.cache
+D:\my work\task8\task8\obj\Debug\net8.0\task8.dll
+D:\my work\task8\task8\obj\Debug\net8.0\refint\task8.dll
+D:\my work\task8\task8\obj\Debug\net8.0\task8.pdb
+D:\my work\task8\task8\obj\Debug\net8.0\task8.genruntimeconfig.cache
+D:\my work\task8\task8\obj\Debug\net8.0\ref\task8.dll
