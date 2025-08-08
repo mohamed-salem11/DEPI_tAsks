@@ -1,0 +1,14 @@
+D:\my work\Assignment session 17\Assignment session 17\bin\Debug\net8.0\Assignment session 17.exe
+D:\my work\Assignment session 17\Assignment session 17\bin\Debug\net8.0\Assignment session 17.deps.json
+D:\my work\Assignment session 17\Assignment session 17\bin\Debug\net8.0\Assignment session 17.runtimeconfig.json
+D:\my work\Assignment session 17\Assignment session 17\bin\Debug\net8.0\Assignment session 17.dll
+D:\my work\Assignment session 17\Assignment session 17\bin\Debug\net8.0\Assignment session 17.pdb
+D:\my work\Assignment session 17\Assignment session 17\obj\Debug\net8.0\Assignment session 17.GeneratedMSBuildEditorConfig.editorconfig
+D:\my work\Assignment session 17\Assignment session 17\obj\Debug\net8.0\Assignment session 17.AssemblyInfoInputs.cache
+D:\my work\Assignment session 17\Assignment session 17\obj\Debug\net8.0\Assignment session 17.AssemblyInfo.cs
+D:\my work\Assignment session 17\Assignment session 17\obj\Debug\net8.0\Assignment session 17.csproj.CoreCompileInputs.cache
+D:\my work\Assignment session 17\Assignment session 17\obj\Debug\net8.0\Assignment session 17.dll
+D:\my work\Assignment session 17\Assignment session 17\obj\Debug\net8.0\refint\Assignment session 17.dll
+D:\my work\Assignment session 17\Assignment session 17\obj\Debug\net8.0\Assignment session 17.pdb
+D:\my work\Assignment session 17\Assignment session 17\obj\Debug\net8.0\Assignment session 17.genruntimeconfig.cache
+D:\my work\Assignment session 17\Assignment session 17\obj\Debug\net8.0\ref\Assignment session 17.dll
