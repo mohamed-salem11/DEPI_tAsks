@@ -1,0 +1,14 @@
+D:\DEPI tasks\task session18\task session18\bin\Debug\net8.0\task session18.exe
+D:\DEPI tasks\task session18\task session18\bin\Debug\net8.0\task session18.deps.json
+D:\DEPI tasks\task session18\task session18\bin\Debug\net8.0\task session18.runtimeconfig.json
+D:\DEPI tasks\task session18\task session18\bin\Debug\net8.0\task session18.dll
+D:\DEPI tasks\task session18\task session18\bin\Debug\net8.0\task session18.pdb
+D:\DEPI tasks\task session18\task session18\obj\Debug\net8.0\task session18.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEPI tasks\task session18\task session18\obj\Debug\net8.0\task session18.AssemblyInfoInputs.cache
+D:\DEPI tasks\task session18\task session18\obj\Debug\net8.0\task session18.AssemblyInfo.cs
+D:\DEPI tasks\task session18\task session18\obj\Debug\net8.0\task session18.csproj.CoreCompileInputs.cache
+D:\DEPI tasks\task session18\task session18\obj\Debug\net8.0\task session18.dll
+D:\DEPI tasks\task session18\task session18\obj\Debug\net8.0\refint\task session18.dll
+D:\DEPI tasks\task session18\task session18\obj\Debug\net8.0\task session18.pdb
+D:\DEPI tasks\task session18\task session18\obj\Debug\net8.0\task session18.genruntimeconfig.cache
+D:\DEPI tasks\task session18\task session18\obj\Debug\net8.0\ref\task session18.dll
